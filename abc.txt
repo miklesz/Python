@@ -1,7 +1,0 @@
-Red
-Green
-White
-Black
-Pink
-Yellow
-Ćwiczenia z Pythona
