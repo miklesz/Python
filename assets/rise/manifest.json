@@ -1,0 +1,148 @@
+{
+  "https://api.codewithharry.com/media/blogFiles/install-and-setup-pycharm/pycharmgif10.gif": {
+    "path": "assets/rise/aefb4a355c83aa41.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2026.3/py_run_script1.png",
+    "replacement": true,
+    "sha256": "aabaf3daa75c143c7d677b72a1a51d78e62e691b88a118b4080f727f65ab5bce"
+  },
+  "https://api.codewithharry.com/media/blogFiles/install-and-setup-pycharm/pycharmgif7.gif": {
+    "path": "assets/rise/5e50cf2a2fa987bd.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2026.3/py_new_project_virtualenv.png",
+    "replacement": true,
+    "sha256": "0dce0a6b4ea59913df992bd7d20c1a4077512143a81aba1bbdfc1d0265e1c919"
+  },
+  "https://api.codewithharry.com/media/blogFiles/install-and-setup-pycharm/pycharmgif8.gif": {
+    "path": "assets/rise/63a3696cae3acfe0.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2026.3/py_create_class.png",
+    "replacement": true,
+    "sha256": "c98e84e5c40e5e0ec7ae82d4336318256cd5258dfac14859b8de5bd5026b1d15"
+  },
+  "https://api.codewithharry.com/media/blogFiles/install-and-setup-pycharm/pycharmgif9.gif": {
+    "path": "assets/rise/1e71cf91db533ef9.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2026.3/py_create_class_demo.png",
+    "replacement": true,
+    "sha256": "12d0d763ff942b933d097ad07ad913fbe7c0f834f1c66187ac7df8263ffa722d"
+  },
+  "https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2019/07/complexLook%402x.jpg.webp": {
+    "path": "assets/rise/7283cffb311a35e8.webp",
+    "source": "https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2019/07/complexLook%402x.jpg.webp",
+    "sha256": "df06c8806a0f9cbc40624157a2a73b2f9358d47882e222bfd176fe791e4175d8"
+  },
+  "https://i.creativecommons.org/l/by/4.0/88x31.png": {
+    "path": "assets/rise/a73f6d53aee85868.png",
+    "source": "https://i.creativecommons.org/l/by/4.0/88x31.png",
+    "sha256": "616bcfd26d950776e0bab882295ef44d0a7808dd8c765d2ed30809da118f6bdf"
+  },
+  "https://i.imgflip.com/42bnn2.jpg": {
+    "path": "assets/rise/40ba33d892dfcdb1.jpg",
+    "source": "https://i.imgflip.com/42bnn2.jpg",
+    "sha256": "6e6badf30976d71504a2c92decb4364422f822bacaf55aa3ed4ea19776ead0df"
+  },
+  "https://image.evget.com/2020/09/07/1py_mainWindownmg8nnfa536a8lhx.png": {
+    "path": "assets/rise/76787f12340f3d6f.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2026.3/py_main_window_overview.png",
+    "replacement": true,
+    "sha256": "ced62ce3684cb1f74141964615648f2ac3afde94bd1830d5c0d27a2224b213d5"
+  },
+  "https://img.youtube.com/vi/lyiBnyPPnG4/0.jpg": {
+    "path": "assets/rise/4b3e650eb04e8faa.jpg",
+    "source": "https://img.youtube.com/vi/lyiBnyPPnG4/0.jpg",
+    "sha256": "09edef87fbaeb6589d03000b05394c9ba69f12a1252ae91089f3ee93dfd8cab0"
+  },
+  "https://miro.medium.com/v2/resize:fit:1280/0*HhzqQ5ACowM4J4j9.jpg": {
+    "path": "assets/rise/452f1f3c0c1c9623.jpg",
+    "source": "https://miro.medium.com/v2/resize:fit:1280/0*HhzqQ5ACowM4J4j9.jpg",
+    "sha256": "e9c5e1d7a36650d6478acc18b2f601b6e49ad5400a1572325b6c84a269dd73f0"
+  },
+  "https://resources.jetbrains.com/help/img/idea/2021.1/sharing-project-notification.png": {
+    "path": "assets/rise/aa53a3d07f9b4024.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2021.1/sharing-project-notification.png",
+    "sha256": "c6ce62ec4688809798beb0d63bef6eec6cac1a1de579d0579f381fbf53661c5a"
+  },
+  "https://resources.jetbrains.com/help/img/idea/2023.2/py_enable_educational_fearutes.png": {
+    "path": "assets/rise/6f4c04b00ff58353.png",
+    "source": "https://resources.jetbrains.com/help/img/idea/2023.2/py_enable_educational_fearutes.png",
+    "sha256": "2c2fd401b4c0dedf4c6da3ca5bb2526adce09eaac11f2d6847f6890891cc2dc6"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/02/Pip_help.png": {
+    "path": "assets/rise/059d4f6eb93adf0c.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Pip_help.png",
+    "sha256": "0e50a9497921523d88996929fe6ca9bf69739b9c951551a9d55d6bb33c1b935d"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg": {
+    "path": "assets/rise/41afbc24fdc8f916.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg",
+    "sha256": "98abdcd21694ef38857bb5aa591872a8d6ac66f210038bd421c88e279905dd67"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pip_install_virtualenv.png": {
+    "path": "assets/rise/b8907f880832b338.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pip_install_virtualenv.png",
+    "sha256": "d2f902b215bd47a5c31f90e09924b32f6a8d69b75c506e3369641894a7747b56"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/IPython-6.x-screenshot-osx.png": {
+    "path": "assets/rise/1abd8b40bc497f75.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/IPython-6.x-screenshot-osx.png",
+    "sha256": "c1b6d218ec1b226d0e2f16523e728a79d3abaaaee1cb8b5fed793ad36d33b9f1"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anjuta-2.0.0-2.png": {
+    "unresolved": true
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg": {
+    "unresolved": true
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/MacPorts_Logo.svg": {
+    "unresolved": true
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg": {
+    "unresolved": true
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/480px-PyCharm_Icon.svg.png": {
+    "path": "assets/rise/b95c4106a59a7a45.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/500px-PyCharm_Icon.svg.png",
+    "replacement": false,
+    "sha256": "20aead33c2ffd059dbe122c528cf3440ae8951d3c1706033757bb3765bf240e9"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png": {
+    "path": "assets/rise/996f2dc7e29486f6.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png",
+    "replacement": false,
+    "sha256": "ce4da09d843f4426785b5d17f6262583c67b3c1ccb973683b004e41261bf4142"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Homebrew_logo.svg/398px-Homebrew_logo.svg.png": {
+    "path": "assets/rise/0379687994f6f536.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homebrew_logo.svg",
+    "sha256": "8cffbc22cf4535215234a7097cee7f14ac7196fabb57c4d49932f68cdd701cb9"
+  },
+  "https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png": {
+    "path": "assets/rise/20ecac816f102202.svg",
+    "source": "https://mintcdn.com/anaconda-29683c67/s-9WR15r5rZoaPqb/logo/light.svg",
+    "replacement": false,
+    "sha256": "ea56b8dcb86f6f805f751bdd626c3dd023cc118b23c234a505b5d4721de41cf4"
+  },
+  "https://upload.wikimedia.org/wikipedia/en/c/cd/Monty_Python%27s_Flying_Circus_Title_Card.png": {
+    "unresolved": true
+  },
+  "https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png": {
+    "unresolved": true
+  },
+  "https://img-9gag-fun.9cache.com/photo/awo3W1y_460s.jpg": {
+    "path": "assets/rise/8610a622b61c5996.jpg",
+    "source": "https://img-9gag-fun.9cache.com/photo/awo3W1y_460s.jpg",
+    "sha256": "25495f7d3010a5aa3b480c38cb6335571b3ce606b17a5634f288d105be05fbff"
+  },
+  "https://pynative.com/wp-content/uploads/2018/10/python_range.png": {
+    "path": "assets/rise/6d2a4d35ee92c37a.png",
+    "source": "https://pynative.com/wp-content/uploads/2018/10/python_range.png",
+    "sha256": "43554b1f378062a95616d970e8a4fd504ee5b5100c52630736e289afb57dbad6"
+  },
+  "https://www.w3resource.com/w3r_images/python-conditional-exercise-1.png": {
+    "path": "assets/rise/13dee5d716e1550c.png",
+    "source": "https://www.w3resource.com/w3r_images/python-conditional-exercise-1.png",
+    "sha256": "a1aa93baa55de6838fbb999cdf1032020a18ddfb627158d8889b4931c32870a3"
+  },
+  "https://www.w3resource.com/w3r_images/python-conditional-image-exercise-1.png": {
+    "path": "assets/rise/15ef8009c2eb7e09.png",
+    "source": "https://www.w3resource.com/w3r_images/python-conditional-image-exercise-1.png",
+    "sha256": "23dbbc75912bfda8ea4960f71f5ba772cd7b07e08c068b6b3f58bba62dfc2463"
+  }
+}

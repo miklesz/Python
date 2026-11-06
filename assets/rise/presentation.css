@@ -1,0 +1,26 @@
+.reveal .rendered_html img {
+    max-height: 430px;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.reveal .slides > section:first-child > section:first-child img {
+    max-height: 250px;
+}
+
+.reveal .rendered_html pre {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+.reveal .output_area {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.reveal .rendered_html h1,
+.reveal .rendered_html h2,
+.reveal .rendered_html h3,
+.reveal .rendered_html h4 {
+    overflow-wrap: break-word;
+}
