@@ -1,0 +1,14 @@
+@import url("assets/rise/presentation.css");
+
+.reveal .slides .rendered_html img {
+    max-height: min(400px, 45vh);
+}
+
+.reveal .slides section:not(.stack):has(.CodeMirror-code > :nth-child(14)) .CodeMirror {
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.reveal .slides section:not(.stack):has(.CodeMirror-code > :nth-child(14)) .rendered_html {
+    font-size: 22px;
+}
