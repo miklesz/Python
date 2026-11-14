@@ -1,0 +1,6 @@
+@import url("assets/rise/presentation.css");
+
+.reveal .slides section:not(.stack):has(.CodeMirror-code > :nth-child(20)) .CodeMirror {
+    font-size: 16px;
+    line-height: 1.2;
+}
