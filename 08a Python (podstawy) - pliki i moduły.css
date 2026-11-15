@@ -1,0 +1,10 @@
+/* Keep long demonstrations and their output readable in the presentation. */
+.rise-enabled .reveal .slides .input_area {
+  max-height: 440px;
+  overflow: auto;
+}
+
+.rise-enabled .reveal .slides .output {
+  max-height: 250px;
+  overflow: auto;
+}
